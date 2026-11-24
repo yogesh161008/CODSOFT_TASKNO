@@ -12,4 +12,4 @@ This repository contains three beginner Python projects:
 Each project has its own folder and README with run instructions.
 
 ## Author
-Tejeshwar
+yogesh A
